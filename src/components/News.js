@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import NewsItem from "./NewsItem";
 import Spinner from "./Spinner";
 import InfiniteScroll from "react-infinite-scroll-component";
+import Footer from "./Footer";
 
 const News = (props) => {
   const [articles, setArticles] = useState([]);
@@ -82,9 +83,11 @@ const News = (props) => {
                 </div>
               );
             })}
+            
           </div>
         </div>
       </InfiniteScroll>
+      {!loading ?<div  className='container'> <Footer /> </div>: null}
     </>
   );
 };
