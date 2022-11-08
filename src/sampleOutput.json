@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jyoti Mann",
+      "title": "Twitter employees are flooding Blind with bad reviews of Elon Musk - Business Insider",
+      "description": "One user, who posted on the day the company sent staff a memo announcing layoffs, said employees were treated as a \"labor robot.\"",
+      "url": "https://www.businessinsider.com/twitter-employees-flooding-blind-bad-reviews-elon-musk-2022-11",
+      "urlToImage": "https://i.insider.com/6366794d00d7c60018785516?width=1200&format=jpeg",
+      "publishedAt": "2022-11-06T16:26:23Z",
+      "content": "Twitter employees are flooding the employee forum Blind with bad and some goodreviews about the company and its new CEO, Elon Musk. \r\nInsider trawled through the community app, where employees can an… [+2742 chars]"
+    },
+    
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sandee LaMotte",
+      "title": "Permanent Daylight Saving Time will hurt our health, experts say - CNN",
+      "description": "Daylight Saving Time all year round? There's a push by the US Senate to make it so, but it's a terrible idea that may ruin our health, sleep experts say.",
+      "url": "https://www.cnn.com/2022/11/06/health/permanent-daylight-savings-health-harms-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221031141150-permanent-daylight-savings-health-harms-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-06T07:02:00Z",
+      "content": "Editors Note: Sign up for CNNs Sleep, But Better newsletter series. Our seven-part guide has helpful hints to achieve better sleep.\r\nThe end of Daylight Saving Time is upon us again, an autumn tradit… [+5954 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Dan Balz, Scott Clement, Emily Guskin",
+      "title": "Post-ABC poll: House vote nearly split, GOP has edge on economy and turnout - The Washington Post",
+      "description": "Republicans need to win a net of five seats to take control of the House. Democrats face overwhelming odds to prevent that from happening.",
+      "url": "https://www.washingtonpost.com/politics/2022/11/06/midterms-poll-republicans-democrats/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZIWBIOTRE5HYQLN23LI6Q4TXVE.jpg&w=1440",
+      "publishedAt": "2022-11-06T07:00:00Z",
+      "content": "Comment on this story\r\nRepublicans hold significant advantages on the bread-and-butter issues of the economy and inflation that are central concerns of this falls election, and are poised to claim a … [+9787 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "Rebecca Franks",
+      "title": "Cops called to Carter’s home before death - news.com.au",
+      "description": "<p>Troubled singer Aaron Carter was gearing up to sue his ex-fiancee Melanie Martin – who is the mother of his child – for “defamation of character”, after she claimed he broke three of her ribs during a fight.</p>",
+      "url": "https://www.news.com.au/entertainment/celebrity-life/celebrity-deaths/aaron-carter-said-he-called-cops-to-his-california-home-as-his-exfiancee-wouldnt-leave/news-story/8789cd3a403e77986fb77b51ec603a64",
+      "urlToImage": "https://content.api.news/v3/images/bin/eca14837a7eaaae825c880aa15525d63",
+      "publishedAt": "2022-11-06T06:44:33Z",
+      "content": "Troubled singer Aaron Carter was gearing up to sue his ex-fiancee Melanie Martin – who is the mother of his child – for “defamation of character”, after she claimed he broke three of her ribs during … [+2981 chars]"
+    }
+  ]
+}
